@@ -1,0 +1,13 @@
+{
+    "value": [
+        "ref:c984eca8:/Users/marc/Documents/DATA_PROG/SCALA/books/hands-on-scala/02-setup/mill-example/foo/resources",
+        "ref:56b2b538:/Users/marc/Documents/DATA_PROG/SCALA/books/hands-on-scala/02-setup/mill-example/out/foo/compile/dest/classes",
+        "qref:6b13a44d:/Users/marc/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.2/scala-library-2.13.2.jar",
+        "qref:36ea1796:/Users/marc/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/utest_2.13/0.7.4/utest_2.13-0.7.4.jar",
+        "qref:b0201594:/Users/marc/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar",
+        "qref:906983fb:/Users/marc/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/portable-scala/portable-scala-reflect_2.13/0.1.1/portable-scala-reflect_2.13-0.1.1.jar",
+        "qref:c7147fbb:/Users/marc/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.2/scala-reflect-2.13.2.jar"
+    ],
+    "valueHash": -908888307,
+    "inputsHash": -524721952
+}

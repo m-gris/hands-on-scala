@@ -1,0 +1,8 @@
+{
+    "value": [
+        "ref:c984eca8:/Users/marc/Documents/DATA_PROG/SCALA/books/hands-on-scala/02-setup/mill-example/foo/test/resources",
+        "ref:f27e71d2:/Users/marc/Documents/DATA_PROG/SCALA/books/hands-on-scala/02-setup/mill-example/out/foo/test/compile/dest/classes"
+    ],
+    "valueHash": 1829959814,
+    "inputsHash": -1106730522
+}

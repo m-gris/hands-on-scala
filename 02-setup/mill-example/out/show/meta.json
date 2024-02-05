@@ -1,0 +1,13 @@
+{
+    "value": {
+        "value": {
+            
+        },
+        "watched": [
+            "ref:c984eca8:/Users/marc/Documents/DATA_PROG/SCALA/books/hands-on-scala/02-setup/mill-example/foo/resources",
+            "ref:89b23859:/Users/marc/Documents/DATA_PROG/SCALA/books/hands-on-scala/02-setup/mill-example/foo/src"
+        ]
+    },
+    "valueHash": -1191565885,
+    "inputsHash": 1325764664
+}

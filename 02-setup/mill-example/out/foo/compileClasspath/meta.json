@@ -1,0 +1,8 @@
+{
+    "value": [
+        "ref:c984eca8:/Users/marc/Documents/DATA_PROG/SCALA/books/hands-on-scala/02-setup/mill-example/foo/resources",
+        "qref:6b13a44d:/Users/marc/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.2/scala-library-2.13.2.jar"
+    ],
+    "valueHash": 882413813,
+    "inputsHash": 1745857705
+}

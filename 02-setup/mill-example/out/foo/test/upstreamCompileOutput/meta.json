@@ -1,0 +1,10 @@
+{
+    "value": [
+        {
+            "analysisFile": "/Users/marc/Documents/DATA_PROG/SCALA/books/hands-on-scala/02-setup/mill-example/out/foo/compile/dest/zinc",
+            "classes": "ref:56b2b538:/Users/marc/Documents/DATA_PROG/SCALA/books/hands-on-scala/02-setup/mill-example/out/foo/compile/dest/classes"
+        }
+    ],
+    "valueHash": 569602966,
+    "inputsHash": 754339597
+}

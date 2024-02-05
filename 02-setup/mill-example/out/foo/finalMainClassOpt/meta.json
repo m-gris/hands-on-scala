@@ -1,0 +1,8 @@
+{
+    "value": [
+        0,
+        "Multiple main classes found (foo.Example,foo.Example2) please explicitly specify which one to use by overriding mainClass"
+    ],
+    "valueHash": -635324420,
+    "inputsHash": -511391612
+}
